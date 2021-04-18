@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="NoChestmans.cs" />
+    <Compile Include="PlayerUtilites.cs" />
+    <Compile Include="PlayerInfo.cs" />
     <Compile Include="GGPO.cs" />
     <Compile Include="IgnoreTheMismatchedTiles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
